@@ -31,6 +31,7 @@ Web developing for me started as a hobby before becoming a job, So my interest a
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  height="25px"/>
 </p>
+
 ### ❤️ Let's get connected:
 
 <p>
@@ -38,5 +39,6 @@ Web developing for me started as a hobby before becoming a job, So my interest a
 </p>
 
 ### if you like my work : 
+
 - You can Star ⭐ the repositories you like.
 - You can react ❤️ to my LinkedIn posts.
