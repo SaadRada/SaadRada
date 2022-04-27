@@ -9,7 +9,7 @@ I’m a React Front-end web developer.
 Web developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
 <div>
- <img height="auto" style="border-radius:80px;width50%;float:left;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+ <img height="auto" style="border-radius:80px;width40%;float:left;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 <img height="auto" style="border-radius:80px;width50%;float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrada&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
