@@ -8,8 +8,11 @@ I'm **Saad Rada** from Morocco , I'm 20 years old, ambitious young man, I'm curr
 I’m a React Front-end web developer.
 Web developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
-<img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrada&layout=compact&langs_count=7&theme=nord"/>
+<div>
+ <img height="auto" style="border-radius:80px;width50%;float:left;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="auto" style="border-radius:80px;width50%;float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrada&layout=compact&langs_count=7&theme=nord"/>
+</div>
+
 
 <!-- - 👨🏻‍💻 All About me in my [Resume](https://saadrada.github.io/CV/)
 - 🌱 I’m currently learning ...
