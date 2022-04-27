@@ -8,11 +8,20 @@ I'm **Saad Rada** from Morocco , I'm 20 years old, ambitious young man, I'm curr
 I’m a React Front-end web developer.
 Web developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
-<div style="display:flex;">
- <img style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrada&layout=compact&langs_count=7&theme=nord"/>
-</div>
-<img src="https://activity-graph.herokuapp.com/graph?username=saadrada&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/>
+
+<hr/>
+
+  <a href="https://github.com/saadrada?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=saadrada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/saadrada?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrada&layout=compact&langs_count=7&theme=nord"/></a>
+
+
+
+
+
+
+<hr/>
+      <a href="https://github.com/saadrada?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=saadrada&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
+
 
 
 <!-- - 👨🏻‍💻 All About me in my [Resume](https://saadrada.github.io/CV/)
