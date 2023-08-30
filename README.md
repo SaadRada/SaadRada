@@ -7,9 +7,6 @@ I’m a Front-end web & Mobile developer.
 Web & Mobile developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
 <hr/>
-      <a href="https://github.com/saadrada?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=saadrada&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
-
-
 
 <!-- - 👨🏻‍💻 All About me in my [Resume](https://saadrada.github.io/CV/)
 - 🌱 I’m currently learning ...
