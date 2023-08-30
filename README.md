@@ -1,12 +1,10 @@
 ### Hello there 👋
 
 Welcome to my own github profile
-I'm **Saad Rada** from Morocco , I'm 20 years old, ambitious young man, I'm currently studying for a master's degree in full stack web development.
+I'm **Saad Rada** from Morocco , I'm 21 years old, ambitious young man, I'm currently studying for a master's degree in full stack web development.
 
-<!-- ![rada saad](saadbanner.png) -->
-
-I’m a React Front-end web developer.
-Web developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
+I’m a Front-end web & Mobile developer.
+Web & Mobile developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
 <hr/>
       <a href="https://github.com/saadrada?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=saadrada&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
@@ -21,21 +19,6 @@ Web developing for me started as a hobby before becoming a job, So my interest a
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-### 🛠️Technologies and Tools I use:
-<p>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"  height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25px"/>
-<img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  height="25px"/>
-<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"  height="25px"/>
-<img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  height="25px"/>
-</p>
 
 ### ❤️ Let's get connected:
 
