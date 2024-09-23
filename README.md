@@ -1,10 +1,10 @@
 ### Hello there 👋
 
 Welcome to my own github profile
-I'm **Saad Rada** from Morocco , I'm 21 years old, ambitious young man, I'm currently studying for a master's degree in full stack web development.
+I'm **Saad Rada** from Morocco , I'm 22 years old, ambitious young man, I'm currently a technical consultant Microsoft dynamics 365 Business Central.
 
-I’m a Front-end web & Mobile developer.
-Web & Mobile developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
+I’m a technical consultant Microsoft dynamics 365 Business Central & Mobile developer.
+Developing for me started as a hobby before becoming a job, So my interest and love for it always pushes me to do my best and improve every project I`m working on!
 
 <hr/>
 
